@@ -17,18 +17,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="glyph_settings_app_name">Glif arayüzü</string>
-    <string name="glyph_settings_enable">Glif ışıkları</string>
-    <string name="glyph_settings_title">Glif arayüzü</string>
-    <string name="glyph_settings_summary">Glif ışıkları ayarları</string>
-    <string name="glyph_settings_flip_toggle_title">Glif için yatır</string>
-    <string name="glyph_settings_flip_toggle_summary">Telefonu ters çevirerek sessize al ve Glif ışıklarını yak</string>
+    <string name="glyph_settings_app_name">Glyph arayüzü</string>
+    <string name="glyph_settings_enable">Glyph ışıkları</string>
+    <string name="glyph_settings_title">Glyph Interface</string>
+    <string name="glyph_settings_summary">Glyph ışıkları ayarları</string>
+    <string name="glyph_settings_flip_toggle_title">Glyph Moduna Çevir</string>
+    <string name="glyph_settings_flip_toggle_summary">Sessiz odaklama için sessiz veya yalnızca ışıklı bildirimleri ve aramaları tetiklemek için cihazı Glyph Interface yukarı bakacak şekilde düz bir yüzeye koyun. Flip to Glyph etkinleştirildiğinde Glyph Interface kısa bir süre yanıp sönecektir.</string>
     <string name="glyph_settings_brightness">Parlaklık</string>
     <string name="glyph_settings_charging_title">Şarj</string>
     <string name="glyph_settings_charging_level_title">Pil seviyesi</string>
     <string name="glyph_settings_charging_level_summary">Şarja takıldığında pil yüzdesini göster</string>
-    <string name="glyph_settings_charging_powershare_title">Ters kablosuz şarj</string>
-    <string name="glyph_settings_charging_powershare_summary">Ters kablosuz şarj algılandığında bir animasyon göster</string>
+    <string name="glyph_settings_charging_powershare_title">Reverse Wireless Charging</string>
+    <string name="glyph_settings_charging_powershare_summary">Reverse Wireless Charging algılandığında bir animasyon göster</string>
     <string name="glyph_settings_call_title">Aramalar</string>
     <string name="glyph_settings_call_toggle_title">Arama animasyonu</string>
     <string name="glyph_settings_call_toggle_summary">Gelen aramalarda LED\'leri flaşla</string>
@@ -41,15 +41,15 @@
     <string name="glyph_settings_notifs_sub_toggle_title">Bildirim animasyonunu etkinleştir</string>
     <string name="glyph_settings_notifs_sub_animations_title">Desen</string>
     <string name="glyph_settings_notifs_sub_essential_title">Önemli bildirimler</string>
-    <string name="glyph_settings_notifs_sub_essential_summary">\"Önemli Glyph\", Önemli bildirimler okunana veya silinene kadar açık kalacaktır.</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">\"Essential Glyphs\", Önemli bildirimler okunana veya silinene kadar açık kalacaktır.</string>
     <string name="glyph_settings_volume_title">Ses</string>
     <string name="glyph_settings_volume_level_toggle_title">Ses göstergesi</string>
     <string name="glyph_settings_volume_level_toggle_summary">Ayarlama yaparken ses seviyesini göster</string>
     <string name="glyph_settings_misc_title">Diğer Ayarlar</string>
     <string name="glyph_settings_music_visualizer_toggle_title">Müzik görselleştirici</string>
-    <string name="glyph_settings_music_visualizer_toggle_summary">Bu, Glif ışıklarının hoparlörlere tepki vermesini sağlar. Aktifleştirildiğinde diğer tüm Glif özellikleri devre dışı kalır.</string>
-    <string name="glyph_accessibility_quick_settings">Glif</string>
-    <string name="glyph_accessibility_quick_settings_torch">Glif feneri</string>
+    <string name="glyph_settings_music_visualizer_toggle_summary">Partiye hayat verin!.</string>
+    <string name="glyph_accessibility_quick_settings">Glyphs</string>
+    <string name="glyph_accessibility_quick_settings_torch">Glyph el feneri</string>
     <string name="glyph_accessibility_quick_settings_off">Kapalı</string>
     <string name="glyph_accessibility_quick_settings_on">Açık</string>
 </resources>
